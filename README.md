@@ -30,7 +30,7 @@
 | 27. | Wood Pigeon | *Columba palumbus* | 1460 | 265 | 0,12 |
 
 
-# 2. Evaluation of scores for species below 75% accuracy
+# 2. Evaluation - species below 75% accuracy
 
 ## Wood Pigeon (*Columba palumbus*)
 *	f1 score: 0,12
