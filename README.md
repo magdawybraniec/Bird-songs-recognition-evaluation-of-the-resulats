@@ -49,12 +49,12 @@ https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptak
 ## Collared Dove (*Streptopelia decaocto*)
 *	Piosenka należy do najpiękniejszych, rozpoczyna się od chaotycznego trajkotu (może być skracany lub omijany, gł. w upalne południe i w S Europie), przechodzącego w czyste, nieco melancholijne, fletowe gwizdy. Jak inne pokrzewki, czasem wykonuje wydłużony podśpiew z naśladownictw, skrzeków i zgrzytów [posłuchaj >>](https://www.xeno-canto.org/491910).
 *	Głos ("call") – cmokające „tek”, w zaniepokojeniu powtarzane w długich seriach, „tek-tek-tek…”, czasem przeplatane przeciągłym, ochrypłym „szriih” [posłuchaj >>](https://www.xeno-canto.org/490832). 
-<img src="http://www.naturephoto-cz.com/photos/mraz/kapturka-xxx09a507.jpg" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Eurasian_Collared_Dove_%28Female%29_I_IMG_9674.jpg" height="200">
 
 ## Fieldfare (*Turdus pilaris*)
 *	Piosenka to seria wydawanych w jednostajnych odstępach, czystych, stanowczych, jednosylabowych (rzadko dwusylabowych) dźwięków na dwóch lub trzech tonach, „silt siult siult sult silt silt sult siult siult silt” Ptaki nowo przybyłe na lęgowiska często wtrącają między zwrotkami przytłumione „perrre perrre” [posłuchaj >>](https://www.xeno-canto.org/477598).
 *	Głos („call”) – miękkie gwiżdżące „hłiit”, lekko wznoszące i z akcentem na koniec. Późnym latem i jesienią ptaki juwenalne czasem wydają proste „hiip” [posłuchaj >>](https://www.xeno-canto.org/496316).
-<img src="https://photos.smugmug.com/Artsportretter/Sangere/Gransanger/i-cR4ptd8/2/205f2eb9/L/20100411-7321-Gransanger-L.jpg" height="200">
+<img src="https://www.wildlifetrusts.org/sites/default/files/styles/node_hero_default/public/2017-12/Fieldfare%20cpt.Stefan%20Johansson.jpg?h=35ea520a&itok=5cwCAE8-" height="200">
 
 ## Tree sparrow (*Passer montanus*)
 *	W strukturze piosenki występują rozmaite powtarzane roztrzęsione sylaby, jest bardzo głośna, donośna, rozpoznawana po burkliwym, rechoczącym brzmieniu i powracającej serii powtarzanych przenikliwych falsetowych pisków, np. „trr trr karra-karra-karra-krie-krie-krie trr-trr-kie-kie” [posłuchaj >>](https://www.xeno-canto.org/483906).
