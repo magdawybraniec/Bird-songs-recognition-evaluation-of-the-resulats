@@ -71,7 +71,7 @@
 
 ## Eurasian Magpie (*Pica pica*)
 *	f1 score: 0,53
-*	Very small part of song is under 1kHz, so it could be cut by high-pass filter, however main difficulty of recognition may be caused by: quiet song, broken and irregular rhytm, signals in one phrase at many different frequencies/with few partial tones and also relatively small number of recordings (this species is well known by their 'call' voice, but song is heard rarely).
+*	Very small part of the song is under 1kHz, so it could be cut by high-pass filter, however main difficulty of recognition may be caused by: quiet song, broken and irregular rhytm, signals in one phrase at many different frequencies/with few partial tones and also relatively small number of recordings (this species is well known by their 'call' voice, but song is heard rarely).
 *	[sample 1 ](https://www.xeno-canto.org/451138), [sample 2 ](https://www.xeno-canto.org/281709), [sample 3 ](https://www.xeno-canto.org/383817)
 <img src="https://download.ams.birds.cornell.edu/api/v1/asset/44605931/1800" height="200">
 
