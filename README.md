@@ -78,7 +78,7 @@
 ## Hawfinch (*Coccothraustes coccothraustes*)
 *	f1 score: 0,55
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1](https://www.xeno-canto.org/460461), [sample 2](https://www.xeno-canto.org/403252), [sample 3](https://www.xeno-canto.org/363825)
 <img src="https://www.birdguides.com/cdn/gallery/birdguides/d2e3b06e-80a0-452e-bd04-f5699b625d2d.jpg" height="200">
 
 ## Common Starling (*Sturnus vulgaris*)
