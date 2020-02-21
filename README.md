@@ -47,49 +47,49 @@
 
 ## Fieldfare (*Turdus pilaris*)
 *	f1 score: 0,29
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	Difficulty of recognition may be caused by: single signal in one phrase at many different frequencies/with few partial tones and also relatively small number of recordings. Besides, song is quite distinguished, consists of few short and sharp/scratchy syllables with small pauses between and some higher, clear, squeaky tones.
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://www.wildlifetrusts.org/sites/default/files/styles/node_hero_default/public/2017-12/Fieldfare%20cpt.Stefan%20Johansson.jpg?h=35ea520a&itok=5cwCAE8-" height="200">
 
 ## Tree sparrow (*Passer montanus*)
 *	f1 score: 0,33
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	Reasons of low score is highly unclear - song of this species is very similar to House Sparrow that reached 0,79. Main difference may be (38%) smaller number of recordings. 
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO0jWnTuAPrmuKdGosttmlGrPJoVGC0q5gJEapVQyTkv5IXxyS" height="200">
 
 ## Eurasian Jay (*Garrulus glandarius*)
 *	f1 score: 0,37
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	Small part of the song is under 1kHz, so it could be cut by high-pass filter, however main difficulty of recognition seamed to be: quiet song, broken and irregular rhytm, signals in one phrase at many different frequencies/with few partial tones and also relatively small number of recordings (this species is well known by their 'call' voice, but song is heard rarely).
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://www.uzdrowiskozegiestow.pl/wp-content/uploads/2017/10/s%C3%B3jka-min.jpg" height="200">
 
 ## House martin (*Delichon urbicum*)
 *	f1 score: 0,46
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	Song over 1 kHz, difficuty of recognition can be caused by large diversity in song structure and frequencies distribution in one syllable - in one individual's song and between individuals, single syllable also very short.
 *	[sample 1 ](https://www.xeno-canto.org/478995), [sample 2 ](https://www.xeno-canto.org/443565), [sample 3 ](https://www.xeno-canto.org/377793)
 <img src="https://lh3.googleusercontent.com/proxy/kz8j_gr4mmoBT2KRtdJSiCRxlf1AIs4SR0NIzuDBGyr9-l1A6-1fNnNvan9Ez8qS3CQkFj24521cSbrO0DhdVE9iyTknjy5ubav4btRoKp0h_IUl3hzUJDqpuZo4u0NkanvbXTc" height="200">
 
 ## Eurasian Magpie (*Pica pica*)
 *	f1 score: 0,53
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	Very small part of song is under 1kHz, so it could be cut by high-pass filter, however main difficulty of recognition may be caused by: quiet song, broken and irregular rhytm, signals in one phrase at many different frequencies/with few partial tones and also relatively small number of recordings (this species is well known by their 'call' voice, but song is heard rarely).
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://download.ams.birds.cornell.edu/api/v1/asset/44605931/1800" height="200">
 
 ## Hawfinch (*Coccothraustes coccothraustes*)
 *	f1 score: 0,55
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	All song over 1 kHz. Difficulty in recognition can be caused by small number of song recordings (species is known mainly of its call voice), song is rather quiet, slow, uneven and consist of short syllables. It easly blends into other bird voices, so it is also the reason of small number of recordings. All of these can have impact on quite low recognition accuracy.
 *	[sample 1](https://www.xeno-canto.org/460461), [sample 2](https://www.xeno-canto.org/403252), [sample 3](https://www.xeno-canto.org/363825)
 <img src="https://www.birdguides.com/cdn/gallery/birdguides/d2e3b06e-80a0-452e-bd04-f5699b625d2d.jpg" height="200">
 
 ## Common Starling (*Sturnus vulgaris*)
 *	f1 score: 0,58
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	In some cases part of the song can be cut by figh-pass filter, but it applies to minority. Great diversity of sounds and other bird sounds imitations can cause problems in recognition. Song is often well distinguished and rather loud, but extremely diverse in rythm, length, type of voices in one individual and between individuals. Consists of many types of sounds - mainly whistles and jumbled warbling and rattles, often includes imitations of other species voices. 
 *	[sample 1 ](https://www.xeno-canto.org/465548), [sample 2 ](https://www.xeno-canto.org/527723), [sample 3 ](https://www.xeno-canto.org/478879)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg/290px-Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg" height="200">
 
 ## White wagtail (*Motacilla alba*)
 *	f1 score: 0,74
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	All song over 1 kHz. On difficulty in recognition can impact: quite small numer of song recordings and call recordings described as songs. However song consists of fast undifferentiated chirping with breaks,it is generally quiet, so it can also negatively impact on recorgnition.
 *	[sample 1 ](https://www.xeno-canto.org/465382), [sample 2 ](https://www.xeno-canto.org/424991), [sample 3 ](https://www.xeno-canto.org/396506)
 <img src="https://lh3.googleusercontent.com/proxy/_aUdc6UFYqWfP_Y3YNojIufxbErRn6kjQYZibHYrmLh7cHGnWFqgSgXwoMFBFQKo30BoiM57OhBNKzOcFBaCndAX5oPprvHJ9N1n3Sl8KaOW8whf2eumy9GQaljai0ohXiKt_XfUBUMqa7LdtnugnYfpzY8q-7E" height="200">
 
