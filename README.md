@@ -57,7 +57,7 @@
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO0jWnTuAPrmuKdGosttmlGrPJoVGC0q5gJEapVQyTkv5IXxyS" height="200">
 
-## Jay (*Garrulus glandarius*)
+## Eurasian Jay (*Garrulus glandarius*)
 *	f1 score: 0,37
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
@@ -69,7 +69,7 @@
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://lh3.googleusercontent.com/proxy/kz8j_gr4mmoBT2KRtdJSiCRxlf1AIs4SR0NIzuDBGyr9-l1A6-1fNnNvan9Ez8qS3CQkFj24521cSbrO0DhdVE9iyTknjy5ubav4btRoKp0h_IUl3hzUJDqpuZo4u0NkanvbXTc" height="200">
 
-## Magpie (*Pica pica*)
+## Eurasian Magpie (*Pica pica*)
 *	f1 score: 0,53
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
@@ -81,7 +81,7 @@
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://www.birdguides.com/cdn/gallery/birdguides/d2e3b06e-80a0-452e-bd04-f5699b625d2d.jpg" height="200">
 
-## Starling (*Sturnus vulgaris*)
+## Common Starling (*Sturnus vulgaris*)
 *	f1 score: 0,58
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
