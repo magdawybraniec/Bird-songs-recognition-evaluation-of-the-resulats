@@ -66,7 +66,7 @@
 ## House martin (*Delichon urbicum*)
 *	f1 score: 0,46
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1 ](https://www.xeno-canto.org/478995), [sample 2 ](https://www.xeno-canto.org/443565), [sample 3 ](https://www.xeno-canto.org/377793)
 <img src="https://lh3.googleusercontent.com/proxy/kz8j_gr4mmoBT2KRtdJSiCRxlf1AIs4SR0NIzuDBGyr9-l1A6-1fNnNvan9Ez8qS3CQkFj24521cSbrO0DhdVE9iyTknjy5ubav4btRoKp0h_IUl3hzUJDqpuZo4u0NkanvbXTc" height="200">
 
 ## Eurasian Magpie (*Pica pica*)
