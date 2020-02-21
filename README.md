@@ -24,7 +24,7 @@
 | 21. | Eurasian Magpie | *Pica pica* | 241 | 56 | 0,53 |
 | 22. | House martin | *Delichon urbicum* | 588 | 57 | 0,46 |
 | 23. | Eurasian Jay | *Garrulus glandarius* | 1078 | 136 | 0,37 |
-| 24. | Tree Sparrow | *Passer montanus* | 1695 | 183 | 0,33 |
+| 24. | Eurasian Tree Sparrow | *Passer montanus* | 1695 | 183 | 0,33 |
 | 25. | Fieldfare | *Turdus pilaris* | 858 | 123 | 0,29 |
 | 26. | Collared Dove | *Streptopelia decaocto* | 1646 | 314 | 0,28 |
 | 27. | Wood Pigeon | *Columba palumbus* | 1460 | 265 | 0,12 |
@@ -51,10 +51,10 @@
 *	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
 <img src="https://www.wildlifetrusts.org/sites/default/files/styles/node_hero_default/public/2017-12/Fieldfare%20cpt.Stefan%20Johansson.jpg?h=35ea520a&itok=5cwCAE8-" height="200">
 
-## Tree sparrow (*Passer montanus*)
+## Eurasian Tree Sparrow (*Passer montanus*)
 *	f1 score: 0,33
 *	Reasons of low score is highly unclear - song of this species is very similar to House Sparrow that reached 0,79. Main difference may be (38%) smaller number of recordings. 
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1 ](https://www.xeno-canto.org/497877), [sample 2 ](https://www.xeno-canto.org/440407), [sample 3 ](https://www.xeno-canto.org/360701)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO0jWnTuAPrmuKdGosttmlGrPJoVGC0q5gJEapVQyTkv5IXxyS" height="200">
 
 ## Eurasian Jay (*Garrulus glandarius*)
