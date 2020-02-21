@@ -1,29 +1,29 @@
 # 1. Summary of the results
 | O.n. | Species - ENG name | Species - LAT name | N mel-spectrograms | N mp3 files | f1 score |
 | ---- | ------------------ | ------------------ | ------------------ | ----------- | -------- |
-| 1. | Skylark | *Alauda arvensis* | 6595 | 872 | 0,97 |
+| 1. | Eurasian Skylark | *Alauda arvensis* | 6595 | 872 | 0,97 |
 | 2. | Thrush Nightingale | *Luscinia luscinia* | 4749 | 396 | 0,95 |
 | 3. | Yellowhammer | *Emberiza citrinella* | 17739 | 1452 | 0,94 |
 | 4. | Common redstart | *Phoenicurus phoenicurus* | 5204 | 518 | 0,94 |
 | 5. | Willow Warbler | *Phylloscopus trochilus* | 26094 | 2154 | 0,94 |
-| 6. | Blackbird | *Turdus merula* | 40049 | 2045 | 0,93 |
+| 6. | Common Blackbird | *Turdus merula* | 40049 | 2045 | 0,93 |
 | 7. | Great Tit | *Parus major* | 14425 | 1931 | 0,91 |
 | 8. | Black Redstart | *Phoenicurus ochrurus* | 2678 | 358 | 0,91 |
 | 9. | Goldfinch | *Carduelis carduelis* | 5038 | 628 | 0,88 |
 | 10. | Robin | *Erithacus rubecula* | 21800 | 1587 | 0,88 |
 | 11. | Chaffinch | *Fringilla coelebs* | 18705 | 2141 | 0,88 |
 | 12. | Common Chiffchaff | *Phylloscopus collybita* | 11562 | 1627 | 0,86 |
-| 13. | Wren | *Troglodytes troglodytes* | 10306 | 1296 | 0,84 |
+| 13. | Eurasian Wren | *Troglodytes troglodytes* | 10306 | 1296 | 0,84 |
 | 14. | Song Thrush | *Turdus philomelos* | 35786 | 1889 | 0,83 |
 | 15. | Greenfinch | *Chloris chloris* | 4247 | 627 | 0,82 |
 | 16. | House sparrow | *Passer domesticus* | 2351 | 384 | 0,79 |
-| 17. | Nuthatch | *Sitta europaea* | 2014 | 389 | 0,79 |
+| 17. | Eurasian Nuthatch | *Sitta europaea* | 2014 | 389 | 0,79 |
 | 18. | White wagtail | *Motacilla alba* | 738 | 158 | 0,74 |
-| 19. | Starling | *Sturnus vulgaris* | 5225 | 380 | 0,58 |
+| 19. | Common Starling | *Sturnus vulgaris* | 5225 | 380 | 0,58 |
 | 20. | Hawfinch | *Coccothraustes coccothraustes* | 470 | 89 | 0,55 |
-| 21. | Magpie | *Pica pica* | 241 | 56 | 0,53 |
+| 21. | Eurasian Magpie | *Pica pica* | 241 | 56 | 0,53 |
 | 22. | House martin | *Delichon urbicum* | 588 | 57 | 0,46 |
-| 23. | Jay | *Garrulus glandarius* | 1078 | 136 | 0,37 |
+| 23. | Eurasian Jay | *Garrulus glandarius* | 1078 | 136 | 0,37 |
 | 24. | Tree Sparrow | *Passer montanus* | 1695 | 183 | 0,33 |
 | 25. | Fieldfare | *Turdus pilaris* | 858 | 123 | 0,29 |
 | 26. | Collared Dove | *Streptopelia decaocto* | 1646 | 314 | 0,28 |
