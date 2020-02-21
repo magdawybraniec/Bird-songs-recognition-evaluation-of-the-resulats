@@ -98,21 +98,11 @@ Sounds of bird species with accuracy below 75% are characterized by:
 *	[sample 1 ](https://www.xeno-canto.org/465548), [sample 2 ](https://www.xeno-canto.org/527723), [sample 3 ](https://www.xeno-canto.org/478879)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg/290px-Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg" height="200">
 
-## White wagtail (*Motacilla alba*)
+## White Wagtail (*Motacilla alba*)
 *	f1 score: 0,74
 *	All song over 1 kHz. On difficulty in recognition can impact: quite small numer of song recordings and call recordings described as songs. However song consists of fast undifferentiated chirping with breaks,it is generally quiet, so it can also negatively impact on recorgnition.
 *	[sample 1 ](https://www.xeno-canto.org/465382), [sample 2 ](https://www.xeno-canto.org/424991), [sample 3 ](https://www.xeno-canto.org/396506)
 <img src="https://lh3.googleusercontent.com/proxy/_aUdc6UFYqWfP_Y3YNojIufxbErRn6kjQYZibHYrmLh7cHGnWFqgSgXwoMFBFQKo30BoiM57OhBNKzOcFBaCndAX5oPprvHJ9N1n3Sl8KaOW8whf2eumy9GQaljai0ohXiKt_XfUBUMqa7LdtnugnYfpzY8q-7E" height="200">
-
-# 3. Ornithological-side summary
-
-Sounds of bird species with accuracy below 75% are characterized by:
-* low number of recordings
-* some part of the song below 1 kHz - usage of high-pass filter (1 kHz) cut some song frequency - apply to pigeons (Common Wood Pigeon, Collared Dove) and corvidae (Eurasian Magpie, Eurasian Jay) 
-* large diversity of song structure and frequencies in one individual's song and between individuals (Common Starling, House Martin, Fieldfare)
-* quiet song (White Wagtail, Hawfinch, Eurasian Magpie, Eurasian Jay) 
-* including imitations of other bird species (Common Starling)
-* not properly described recordings (calls described as songs) (especially White Wagtail, but also other species) 
 
 
 
