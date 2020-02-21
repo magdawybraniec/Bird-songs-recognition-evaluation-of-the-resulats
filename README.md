@@ -22,7 +22,7 @@
 | 19. | Common Starling | *Sturnus vulgaris* | 5225 | 380 | 0,58 |
 | 20. | Hawfinch | *Coccothraustes coccothraustes* | 470 | 89 | 0,55 |
 | 21. | Eurasian Magpie | *Pica pica* | 241 | 56 | 0,53 |
-| 22. | House martin | *Delichon urbicum* | 588 | 57 | 0,46 |
+| 22. | Common House martin | *Delichon urbicum* | 588 | 57 | 0,46 |
 | 23. | Eurasian Jay | *Garrulus glandarius* | 1078 | 136 | 0,37 |
 | 24. | Eurasian Tree Sparrow | *Passer montanus* | 1695 | 183 | 0,33 |
 | 25. | Fieldfare | *Turdus pilaris* | 858 | 123 | 0,29 |
@@ -63,7 +63,7 @@
 *	[sample 1 ](https://www.xeno-canto.org/462347), [sample 2 ](https://www.xeno-canto.org/462346), [sample 3 ](https://www.xeno-canto.org/380240)
 <img src="https://www.uzdrowiskozegiestow.pl/wp-content/uploads/2017/10/s%C3%B3jka-min.jpg" height="200">
 
-## House martin (*Delichon urbicum*)
+## Common House Martin (*Delichon urbicum*)
 *	f1 score: 0,46
 *	Song over 1 kHz, difficuty of recognition can be caused by large diversity in song structure and frequencies distribution in one syllable - in one individual's song and between individuals, single syllable also very short.
 *	[sample 1 ](https://www.xeno-canto.org/478995), [sample 2 ](https://www.xeno-canto.org/443565), [sample 3 ](https://www.xeno-canto.org/377793)
@@ -97,7 +97,7 @@
 
 Sounds of bird species with accuracy below 75% are characterized by:
 * low number of recordings
-* some part of song below 1 kHz - usage of high-pass filter (1 kHz) cut some part of the song - apply to pigeons (Wood Pigeon, Collared Dove) and corvidae (Magpie, Jay) 
+* some part of the song below 1 kHz - usage of high-pass filter (1 kHz) cut some song frequency - apply to pigeons (Common Wood Pigeon, Collared Dove) and corvidae (Eurasian Magpie, Eurasian Jay) 
 * large diversity of song structure and frequencies in one individual's song and between individuals (Common Starling, House Martin, Fieldfare)
 * quiet song (White Wagtail, Hawfinch, Eurasian Magpie, Eurasian Jay) 
 * including imitations of other bird species (Common Starling)
