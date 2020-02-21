@@ -84,7 +84,7 @@
 ## Common Starling (*Sturnus vulgaris*)
 *	f1 score: 0,58
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1 ](https://www.xeno-canto.org/465548), [sample 2 ](https://www.xeno-canto.org/527723), [sample 3 ](https://www.xeno-canto.org/478879)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg/290px-Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg" height="200">
 
 ## White wagtail (*Motacilla alba*)
