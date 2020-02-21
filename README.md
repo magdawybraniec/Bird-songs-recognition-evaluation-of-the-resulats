@@ -30,7 +30,18 @@
 | 27. | Common Wood Pigeon | *Columba palumbus* | 1460 | 265 | 0,12 |
 
 
-# 2. Evaluation - species below 75% accuracy
+# 2. Probable reasons of low accuracy - from ornithological-side
+
+Sounds of bird species with accuracy below 75% are characterized by:
+* low number of recordings
+* some part of the song below 1 kHz - usage of high-pass filter (1 kHz) cut some song frequency - apply to pigeons (Common Wood Pigeon, Collared Dove) and corvidae (Eurasian Magpie, Eurasian Jay) 
+* large diversity of song structure and frequencies in one individual's song and between individuals (Common Starling, House Martin, Fieldfare)
+* quiet song (White Wagtail, Hawfinch, Eurasian Magpie, Eurasian Jay) 
+* including imitations of other bird species (Common Starling)
+* not properly described recordings (calls described as songs) (especially White Wagtail, but also other species) 
+
+
+# 3. Detailed evaluation - species below 75% accuracy
 
 ## Common Wood Pigeon (*Columba palumbus*)
 *	f1 score: 0,12
