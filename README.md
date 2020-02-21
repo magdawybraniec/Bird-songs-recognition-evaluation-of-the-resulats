@@ -38,7 +38,7 @@ Sounds of bird species with accuracy below 75% are characterized by:
 * large diversity of song structure and frequencies in one individual's song and between individuals (Common Starling, House Martin, Fieldfare)
 * quiet song (White Wagtail, Hawfinch, Eurasian Magpie, Eurasian Jay) 
 * including imitations of other bird species (Common Starling)
-* not properly described recordings (calls described as songs) (especially White Wagtail, but also other species) 
+* not properly described recordings (calls described as songs) (White Wagtail and Eurasian Jay, but probably also other species) 
 
 
 # 3. Detailed evaluation - species below 75% accuracy
