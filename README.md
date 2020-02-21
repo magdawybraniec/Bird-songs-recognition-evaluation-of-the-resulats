@@ -22,7 +22,7 @@
 | 19. | Starling | *Sturnus vulgaris* | 5225 | 380 | 0,58 |
 | 20. | Hawfinch | *Coccothraustes coccothraustes* | 470 | 89 | 0,55 |
 | 21. | Magpie | *Pica pica* | 241 | 56 | 0,53 |
-| 22. | Barn swallow | *Delichon urbicum* | 588 | 57 | 0,46 |
+| 22. | House martin | *Delichon urbicum* | 588 | 57 | 0,46 |
 | 23. | Jay | *Garrulus glandarius* | 1078 | 136 | 0,37 |
 | 24. | Tree Sparrow | *Passer montanus* | 1695 | 183 | 0,33 |
 | 25. | Fieldfare | *Turdus pilaris* | 858 | 123 | 0,29 |
@@ -64,32 +64,32 @@ https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptak
 ## Jay (*Garrulus glandarius*)
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
-<img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="200">
+<img src="https://www.uzdrowiskozegiestow.pl/wp-content/uploads/2017/10/s%C3%B3jka-min.jpg" height="200">
 
-## Barn swallow (*Delichon urbicum*)
+## House martin (*Delichon urbicum*)
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
-<img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="200">
+<img src="https://lh3.googleusercontent.com/proxy/kz8j_gr4mmoBT2KRtdJSiCRxlf1AIs4SR0NIzuDBGyr9-l1A6-1fNnNvan9Ez8qS3CQkFj24521cSbrO0DhdVE9iyTknjy5ubav4btRoKp0h_IUl3hzUJDqpuZo4u0NkanvbXTc" height="200">
 
 ## Magpie (*Pica pica*)
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
-<img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="200">
+<img src="https://download.ams.birds.cornell.edu/api/v1/asset/44605931/1800" height="200">
 
 ## Hawfinch (*Coccothraustes coccothraustes*)
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
-<img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="200">
+<img src="https://www.birdguides.com/cdn/gallery/birdguides/d2e3b06e-80a0-452e-bd04-f5699b625d2d.jpg" height="200">
 
 ## Starling (*Sturnus vulgaris*)
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
-<img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg/290px-Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg" height="200">
 
 ## White wagtail (*Motacilla alba*)
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
-<img src="https://spolecznosc.ekologia.pl/uploads_user/32000/31496/60717_org.jpg" height="200">
+<img src="https://lh3.googleusercontent.com/proxy/_aUdc6UFYqWfP_Y3YNojIufxbErRn6kjQYZibHYrmLh7cHGnWFqgSgXwoMFBFQKo30BoiM57OhBNKzOcFBaCndAX5oPprvHJ9N1n3Sl8KaOW8whf2eumy9GQaljai0ohXiKt_XfUBUMqa7LdtnugnYfpzY8q-7E" height="200">
 
 # 3. Summary 
 
