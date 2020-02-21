@@ -59,7 +59,7 @@ https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptak
 ## Tree sparrow (*Passer montanus*)
 *	W strukturze piosenki występują rozmaite powtarzane roztrzęsione sylaby, jest bardzo głośna, donośna, rozpoznawana po burkliwym, rechoczącym brzmieniu i powracającej serii powtarzanych przenikliwych falsetowych pisków, np. „trr trr karra-karra-karra-krie-krie-krie trr-trr-kie-kie” [posłuchaj >>](https://www.xeno-canto.org/483906).
 *	Głos („call”) – chropawe, nieco „grube” cmokanie, „kszak” lub z lepiej słyszalną głoską „r”, „krrak”. W zaniepokojeniu twarde wibrujące „krrrrr” [posłuchaj >>](https://www.xeno-canto.org/382169).
-<img src="http://www.birdwatching.pl/uploads/gallery/7051/H074FlFLNRfuVtp7iGQw44T0MZ5dHLZtYIa9WhlB.jpg" height="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO0jWnTuAPrmuKdGosttmlGrPJoVGC0q5gJEapVQyTkv5IXxyS" height="200">
 
 ## Jay (*Garrulus glandarius*)
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
@@ -90,6 +90,7 @@ https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptak
 *	Piosenka to ciąg 5-8 żwawo powtarzanych krótkich dźwięków z odmiennym zakończeniem, np. „si-si-si-si-si-si-sjuuu”, przedostatnia nuta jest często wyższa, a ostatnia niższa, „sre-sre-sre-sre-sre-sre-siii-suuu”, czasem bardziej twarde i szeleszczące: „dzre-dzre-dzre-…” [posłuchaj >>](https://www.xeno-canto.org/477570).
 *	Głos („call”) – nieharmoniczne „stiuff”. Ponadto rozmaite krótkie zduszone cmoknięcia, „pt..pt, pt, pittilitt…”. Także ostre „tsit” i cienkie przeciągłe „tsiih” [posłuchaj >>](https://www.xeno-canto.org/491788).
 <img src="https://lh3.googleusercontent.com/proxy/_aUdc6UFYqWfP_Y3YNojIufxbErRn6kjQYZibHYrmLh7cHGnWFqgSgXwoMFBFQKo30BoiM57OhBNKzOcFBaCndAX5oPprvHJ9N1n3Sl8KaOW8whf2eumy9GQaljai0ohXiKt_XfUBUMqa7LdtnugnYfpzY8q-7E" height="200">
+
 
 # 3. Summary 
 
