@@ -27,15 +27,15 @@
 | 24. | Eurasian Tree Sparrow | *Passer montanus* | 1695 | 183 | 0,33 |
 | 25. | Fieldfare | *Turdus pilaris* | 858 | 123 | 0,29 |
 | 26. | Collared Dove | *Streptopelia decaocto* | 1646 | 314 | 0,28 |
-| 27. | Wood Pigeon | *Columba palumbus* | 1460 | 265 | 0,12 |
+| 27. | Common Wood Pigeon | *Columba palumbus* | 1460 | 265 | 0,12 |
 
 
 # 2. Evaluation - species below 75% accuracy
 
-## Wood Pigeon (*Columba palumbus*)
+## Common Wood Pigeon (*Columba palumbus*)
 *	f1 score: 0,12
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1 ](https://www.xeno-canto.org/489280), [sample 2 ](https://www.xeno-canto.org/487835), [sample 3 ](https://www.xeno-canto.org/502415)
 
 <img src="https://birdwatchireland.ie/app/uploads/2019/01/Woodpigeon-05-Daragh-Owens-600x400.jpg" height="200">
 
