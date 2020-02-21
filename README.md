@@ -34,14 +34,14 @@
 
 ## Common Wood Pigeon (*Columba palumbus*)
 *	f1 score: 0,12
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	Usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz).
 *	[sample 1 ](https://www.xeno-canto.org/489280), [sample 2 ](https://www.xeno-canto.org/487835), [sample 3 ](https://www.xeno-canto.org/502415)
 
 <img src="https://birdwatchireland.ie/app/uploads/2019/01/Woodpigeon-05-Daragh-Owens-600x400.jpg" height="200">
 
 ## Collared Dove (*Streptopelia decaocto*)
 *	f1 score: 0,28
-*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	Usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz).
 *	[sample 1 ](https://www.xeno-canto.org/523307), [sample 2 ](https://www.xeno-canto.org/491909), [sample 3 ](https://www.xeno-canto.org/522042)
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Eurasian_Collared_Dove_%28Female%29_I_IMG_9674.jpg" height="200">
 
