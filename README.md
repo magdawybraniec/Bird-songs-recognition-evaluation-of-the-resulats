@@ -90,7 +90,7 @@
 ## White wagtail (*Motacilla alba*)
 *	f1 score: 0,74
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1 ](https://www.xeno-canto.org/465382), [sample 2 ](https://www.xeno-canto.org/424991), [sample 3 ](https://www.xeno-canto.org/396506)
 <img src="https://lh3.googleusercontent.com/proxy/_aUdc6UFYqWfP_Y3YNojIufxbErRn6kjQYZibHYrmLh7cHGnWFqgSgXwoMFBFQKo30BoiM57OhBNKzOcFBaCndAX5oPprvHJ9N1n3Sl8KaOW8whf2eumy9GQaljai0ohXiKt_XfUBUMqa7LdtnugnYfpzY8q-7E" height="200">
 
 
