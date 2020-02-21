@@ -42,7 +42,7 @@
 ## Collared Dove (*Streptopelia decaocto*)
 *	f1 score: 0,28
 *	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1 ](https://www.xeno-canto.org/523307), [sample 2 ](https://www.xeno-canto.org/491909), [sample 3 ](https://www.xeno-canto.org/522042)
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Eurasian_Collared_Dove_%28Female%29_I_IMG_9674.jpg" height="200">
 
 ## Fieldfare (*Turdus pilaris*)
