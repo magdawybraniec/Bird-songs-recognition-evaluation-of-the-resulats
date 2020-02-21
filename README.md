@@ -48,7 +48,7 @@
 ## Fieldfare (*Turdus pilaris*)
 *	f1 score: 0,29
 *	Difficulty of recognition may be caused by: single signal in one phrase at many different frequencies/with few partial tones and also relatively small number of recordings. Besides, song is quite distinguished, consists of few short and sharp/scratchy syllables with small pauses between and some higher, clear, squeaky tones.
-*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650)
+*	[sample 1 ](https://www.xeno-canto.org/519948), [sample 2 ](https://www.xeno-canto.org/512394), [sample 3 ](https://www.xeno-canto.org/477289)
 <img src="https://www.wildlifetrusts.org/sites/default/files/styles/node_hero_default/public/2017-12/Fieldfare%20cpt.Stefan%20Johansson.jpg?h=35ea520a&itok=5cwCAE8-" height="200">
 
 ## Eurasian Tree Sparrow (*Passer montanus*)
