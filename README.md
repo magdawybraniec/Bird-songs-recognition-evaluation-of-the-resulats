@@ -30,20 +30,13 @@
 | 27. | Wood Pigeon | *Columba palumbus* | 1460 | 265 | 0,12 |
 
 
-# 2. Rodzaje i funkcje głosów ptaków 
-
-Ptaki wydają wiele rodzajów głosów. Różne ich rodzaje pełnią odmienne funkcje. Najczęściej wyróżnia się pieśń oraz pozostałe głosy. Pieśń, to ten „ładniejszy” - melodyjny rodzaj głosu, dzięki którym ptaki oznaczają swoje terytorium i zdobywają partnerów. Jest ona zazwyczaj dużo bardziej złożona i dłuższa od „call”. Przykładowy śpiew [bogatki](https://www.xeno-canto.org/463492), [kapturki](https://www.xeno-canto.org/491910), [pierwiosnka](https://www.xeno-canto.org/477598), [trzciniaka](https://www.xeno-canto.org/483906), [trznadla](https://www.xeno-canto.org/477570). 
-
-Do głosów typu call można zaliczyć m.in. głosy kontaktowe, wabiące i alarmowe. Kontaktowe i wabiące służą do utrzymywania ptaków w grupie podczas lotu czy żerowania np. w koronach drzew, alarmowe do ostrzegania np. gdy nadlatuje drapieżnik. Najczęściej są to głosy krótkie i o prostej budowie. Np.: [bogatka](https://www.xeno-canto.org/464650), [kapturka](https://www.xeno-canto.org/490832), [pierwiosnek](https://www.xeno-canto.org/496316), [trzciniak](https://www.xeno-canto.org/382169), [trznadel](https://www.xeno-canto.org/491788).
-
-Dla zainteresowanych niuansami pieśni od strony ornitologicznej polecam wywiad z prof. Tomaszem Osiejukiem, prawdopodobnie najlepszym polskim specem od ptasich głosów. 
-https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1798196,1,dlaczego-ptaki-spiewaja-i-dlaczego-warto-tego-sluchac.read
-
 # 2. Evaluation of scores for species below 75% accuracy
 
 ## Wood Pigeon (*Columba palumbus*)
-*	Piosenka, to prosta skoczna, rytmiczna zwrotka o lekko mechanicznym brzmieniu, np. „ti-ta ti-ta ti-ta…” lub trzysylabowa z innym akcentem, „ti-ti-ta ti-ti-ta ti-ti-ta…” [posłuchaj >>](https://www.xeno-canto.org/463492).
-*	Głos („call”) – bogaty repertuar. Głosy radosne „ping ping”, wesołe „si jutti jutti” i trajkotliwe „ti tuui”. Jesienią często słychać lekko pytające, bardziej nieśmiałe „ti ti tiuh”. Ostrzega ochrypłym trzeszczącym „cze-cze-cze-cze-cze-…”. Podloty wypełniają las uporczywym przenikliwym „tetete tetete…” [posłuchaj >>](https://www.xeno-canto.org/464650).
+*	f1 score: 0,12
+*	usage of high-pass filter cut main part of the song frequency (song is mainly in range up to 1 kHz)
+*	[sample 1 >>](https://www.xeno-canto.org/464650), [sample 2 >>](https://www.xeno-canto.org/464650), [sample 3 >>](https://www.xeno-canto.org/464650).
+
 <img src="https://birdwatchireland.ie/app/uploads/2019/01/Woodpigeon-05-Daragh-Owens-600x400.jpg" height="200">
 
 ## Collared Dove (*Streptopelia decaocto*)
