@@ -30,7 +30,7 @@
 | 27. | Common Wood Pigeon | *Columba palumbus* | 1460 | 265 | 0,12 |
 
 
-# 2. Probable reasons of low accuracy - from ornithological-side
+# 2. Probable reasons of low accuracy - from ornithological side
 
 Sounds of bird species with accuracy below 75% are characterized by:
 * low number of recordings
