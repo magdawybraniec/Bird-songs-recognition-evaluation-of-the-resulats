@@ -78,7 +78,7 @@ Sounds of bird species with accuracy below 75% are characterized by:
 *	f1 score: 0,46
 *	Song over 1 kHz, difficuty of recognition can be caused by large diversity in song structure and frequencies distribution in one syllable - in one individual's song and between individuals, single syllable also very short.
 *	[sample 1 ](https://www.xeno-canto.org/478995), [sample 2 ](https://www.xeno-canto.org/443565), [sample 3 ](https://www.xeno-canto.org/377793)
-<img src="https://lh3.googleusercontent.com/proxy/kz8j_gr4mmoBT2KRtdJSiCRxlf1AIs4SR0NIzuDBGyr9-l1A6-1fNnNvan9Ez8qS3CQkFj24521cSbrO0DhdVE9iyTknjy5ubav4btRoKp0h_IUl3hzUJDqpuZo4u0NkanvbXTc" height="200">
+<img src="https://cdn.shopify.com/s/files/1/1570/8351/files/house_martin_large.jpg?v=1556898024" height="200">
 
 ## Eurasian Magpie (*Pica pica*)
 *	f1 score: 0,53
